@@ -1,0 +1,64 @@
+{
+    "values": [
+        {
+            "headline": "Thunderbelles' 5th-set grit turns back Crossovers",
+            "subheadline": null,
+            "headline_coord": [
+                98,
+                888,
+                798,
+                1450
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Tenorio to follow in Jawo's footsteps as playing coach?",
+            "subheadline": "He has not yet decided to hang his jersey when he accepted the head coaching job of Magnolia Timplados Hotshots.",
+            "headline_coord": [
+                794,
+                2240,
+                3587,
+                2862
+            ],
+            "subheadline_coord": [
+                1041,
+                2968,
+                2153,
+                3180
+            ]
+        },
+        {
+            "headline": "Cone lauds CJ Perez for helping Gilas defeat Black Bears",
+            "subheadline": null,
+            "headline_coord": [
+                826,
+                3845,
+                3534,
+                4050
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Caloocan, Pangasinan hurdle rivals",
+            "subheadline": null,
+            "headline_coord": [
+                100,
+                3999,
+                638,
+                4409
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Edoc shines as weather whips up surprises at JPGT Rivera",
+            "subheadline": null,
+            "headline_coord": [
+                1039,
+                5302,
+                2493,
+                5619
+            ],
+            "subheadline_coord": null
+        }
+    ]
+}

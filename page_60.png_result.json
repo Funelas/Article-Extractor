@@ -1,0 +1,52 @@
+{
+    "values": [
+        {
+            "headline": "The Silver Lining' for Miss Philippines Earth 25th Anniversary",
+            "subheadline": "Candidates of Miss Philippines Earth 2025 show off their swimsuits at the pageant's press presentation",
+            "headline_coord": [
+                246,
+                1930,
+                1340,
+                2471
+            ],
+            "subheadline_coord": [
+                175,
+                2110,
+                1340,
+                6518
+            ]
+        },
+        {
+            "headline": "How 'Ghosting' became a career milestone for Fyang Smith and JM Ibarra",
+            "subheadline": "JM Ibarra and Fyang Smith mark a major breakthrough in their careers as first-time leads in 'Ghosting'",
+            "headline_coord": [
+                1480,
+                659,
+                3664,
+                1451
+            ],
+            "subheadline_coord": [
+                633,
+                659,
+                2842,
+                1633
+            ]
+        },
+        {
+            "headline": "BTS agency HYBE raided over alleged fraud trading",
+            "subheadline": "HYBE's Seoul headquarters is raided as police investigate alleged fraudulent trading involving founder Bang Si-hyuk",
+            "headline_coord": [
+                1576,
+                4117,
+                2788,
+                4475
+            ],
+            "subheadline_coord": [
+                1957,
+                5492,
+                3638,
+                5834
+            ]
+        }
+    ]
+}

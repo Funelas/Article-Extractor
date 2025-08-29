@@ -84,7 +84,7 @@ def annotate_image(image_path, annotations, output_path="annotated.png"):
 
 # === Run Entire Flow
 if __name__ == "__main__":
-    image_path = "./img/Screenshot 2025-07-18 200028.png"
+    image_path = "./img/Screenshot_21-7-2025_93757_mb.com.ph.jpeg"
     ocr_results = perform_ocr(image_path)
     ranked_blocks = rank_by_font_size(ocr_results)
     annotate_image(image_path, ranked_blocks, "annotated_result.png")

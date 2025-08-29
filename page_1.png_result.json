@@ -1,0 +1,119 @@
+{
+    "values": [
+        {
+            "headline": "House to open bicam to public",
+            "subheadline": "Senate minority bloc backs more transparency to end corruption",
+            "headline_coord": [
+                113,
+                1647,
+                3690,
+                2085
+            ],
+            "subheadline_coord": [
+                185,
+                2049,
+                3571,
+                2232
+            ]
+        },
+        {
+            "headline": "HOUSE AGENDA.",
+            "subheadline": null,
+            "headline_coord": [
+                111,
+                2800,
+                453,
+                2863
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "PH MAY LOSE P6B TO US ZERO TARIFF",
+            "subheadline": null,
+            "headline_coord": [
+                172,
+                3763,
+                745,
+                3951
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "DPWH readies list of flood control projects; DepDev draws up protocols",
+            "subheadline": null,
+            "headline_coord": [
+                96,
+                4206,
+                1529,
+                4527
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "DOH explains zero-billing coverage, where it can be availe",
+            "subheadline": null,
+            "headline_coord": [
+                100,
+                4942,
+                2594,
+                5140
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Solons to prioritize social protection measures",
+            "subheadline": null,
+            "headline_coord": [
+                1537,
+                2976,
+                3596,
+                3172
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "GRAFT RAPS VS. EX-OWWA CHIEF",
+            "subheadline": null,
+            "headline_coord": [
+                884,
+                3763,
+                1388,
+                3951
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "DOJ chief bares new witness on ‘sabungeros’ case",
+            "subheadline": null,
+            "headline_coord": [
+                2980,
+                5010,
+                3614,
+                5400
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Senate vote to continue or junk VP impeach trial set for Aug. 6",
+            "subheadline": null,
+            "headline_coord": [
+                1525,
+                5486,
+                2872,
+                5804
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Pag-IBIG special rate for expanded 4PH program",
+            "subheadline": null,
+            "headline_coord": [
+                1543,
+                6148,
+                3612,
+                6341
+            ],
+            "subheadline_coord": null
+        }
+    ]
+}

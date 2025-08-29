@@ -1,14 +1,19 @@
-import os
-from dotenv import load_dotenv
-import google.generativeai as genai
+from rapidfuzz import fuzz
 
-load_dotenv()
+s1 = "k VP impeach trial set for Aug. 6"
+s2 = "VP impeach trial setfor _"
 
-genai.configure(api_key=os.getenv("API_KEY"))
+res = fuzz.partial_ratio_alignment(s1, s2)
+print(fuzz.partial_token_sort_ratio(s1,s2))
+print(fuzz.ratio(s1, s2))            # 83
+print(res) # 100
+new_res = s1[res.src_start:res.src_end]
+print(new_res)
+print(f"New String: {s1.replace(new_res, "")}")
 
-# model = genai.GenerativeModel("models/gemini-pro")  # ✅ Must include "models/" prefix
-# response = model.generate_content("Say hello!")
-models = genai.list_models()
-for m in models:
-    print(m.name, "→", m.supported_generation_methods)
-# print(response.text)
+# first_list = list(s1)
+# second_list = list(s2)
+
+# print([x for x in first_list if x not in second_list])
+# def equal_str_chker(string1,string2):
+#     pass

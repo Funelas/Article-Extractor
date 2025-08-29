@@ -1,0 +1,132 @@
+{
+    "values": [
+        {
+            "headline": "LTO waives late registration fines after storms",
+            "subheadline": "By Rio N. Araja",
+            "headline_coord": [
+                95,
+                706,
+                767,
+                1112
+            ],
+            "subheadline_coord": [
+                111,
+                1160,
+                416,
+                1223
+            ]
+        },
+        {
+            "headline": "DILG cites gains in drug campaign, local governance",
+            "subheadline": "Jay Ar Cabana, who road rage incident went viral, arrested by National Bureau of Investigation agents for posing as an operative of the agency to wiggle himself out of the traffic mess.",
+            "headline_coord": [
+                93,
+                3235,
+                771,
+                3647
+            ],
+            "subheadline_coord": [
+                163,
+                3017,
+                2529,
+                6576
+            ]
+        },
+        {
+            "headline": "OCD warns versus text scams offering assistance",
+            "subheadline": "The Office of Civil Defense (OCD) on Tuesday issued a warning against fraudulent text messages claiming to offer government assistance under the name of the National Disaster Risk Reduction and Management Council (NDRRMC).",
+            "headline_coord": [
+                817,
+                2280,
+                2959,
+                2803
+            ],
+            "subheadline_coord": [
+                113,
+                1526,
+                2115,
+                3389
+            ]
+        },
+        {
+            "headline": "SEARCH FOR A MISSING MAN.",
+            "subheadline": "The search for a missing person at Sitio Talingguroy, Wongol, La Trinidad police station led by Maj. Regino B. Palimo with other support units and volunteers scour the area at the nearby river in Wangal.",
+            "headline_coord": [
+                902,
+                5141,
+                1618,
+                5209
+            ],
+            "subheadline_coord": [
+                1557,
+                3240,
+                2076,
+                3566
+            ]
+        },
+        {
+            "headline": "PCG rescues 144 in distressed ferry boat",
+            "subheadline": "A large section of Dagupan City went underwater as shown in this bird's eyeview of the neighborhood around Pantal River which overflowed its banks due to incessant rains over the past days. Mark Jared Magalong",
+            "headline_coord": [
+                1545,
+                5389,
+                2936,
+                5552
+            ],
+            "subheadline_coord": [
+                1558,
+                1834,
+                3569,
+                5917
+            ]
+        },
+        {
+            "headline": "7 Pinoy scholars to study space science in US",
+            "subheadline": "SEVEN Filipino scholars are set to embark on a scholarship study in the United States after they were officially awarded grants under the Fulbright-PhilSA Program Award in Space Science, Technology, and Applications (SSTAA), an initiative led by the Philippine Space Agency (PhilSA) announced on Tuesday.",
+            "headline_coord": [
+                3033,
+                2456,
+                3614,
+                2599
+            ],
+            "subheadline_coord": [
+                3030,
+                2749,
+                3595,
+                3025
+            ]
+        },
+        {
+            "headline": "Soldiers seized rebel guns in S. Kudarat",
+            "subheadline": "GOVERNMENT troops retrieved several high-powered firearms during a clearing op-eration conducted by the 7th In-fantry (Tapat) Battalion (7IB) in Isulan, Sultan Kudarat, the Phil-ippine Army reported Tuesday.",
+            "headline_coord": [
+                3032,
+                3913,
+                3569,
+                4056
+            ],
+            "subheadline_coord": [
+                824,
+                3021,
+                3600,
+                4344
+            ]
+        },
+        {
+            "headline": "Phivolcs lowers Kanlaon alert level",
+            "subheadline": "THE Philippine Institute of Volcanology and Seismology (Phi-volcs) announced on Tuesday evening it has lowered the alert status over Kanlaon Volcano from Level 3 (magmatic unrest) to Level 2 (moderate level of vol-canic unrest).",
+            "headline_coord": [
+                3053,
+                5229,
+                3543,
+                5362
+            ],
+            "subheadline_coord": [
+                1937,
+                3021,
+                3589,
+                5867
+            ]
+        }
+    ]
+}
