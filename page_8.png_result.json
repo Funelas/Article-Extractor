@@ -1,19 +1,35 @@
 {
     "values": [
         {
-            "headline": "Thunderbelles' 5th-set grit turns back Crossovers",
+            "headline": "SPORTS",
             "subheadline": null,
+            "headline_coord": [
+                2567,
+                188,
+                3655,
+                454
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Thunderbelles' 5th-set grit turns back Crossovers",
+            "subheadline": "The ZUS Coffee Thunderbelles celebrate their conquest of the Chery Tiggo Crossovers in the PVL On Tour Tuesday at the Candon City Arena.",
             "headline_coord": [
                 98,
                 888,
                 798,
                 1450
             ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                103,
+                708,
+                3483,
+                6093
+            ]
         },
         {
             "headline": "Tenorio to follow in Jawo's footsteps as playing coach?",
-            "subheadline": "He has not yet decided to hang his jersey when he accepted the head coaching job of Magnolia Timplados Hotshots.",
+            "subheadline": "Chua said, that if Tenorio continues playing, he could follow in the footsteps of Robert Jaworski, who played and coached for Ginebra many years ago.",
             "headline_coord": [
                 794,
                 2240,
@@ -21,10 +37,10 @@
                 2862
             ],
             "subheadline_coord": [
-                1041,
-                2968,
-                2153,
-                3180
+                1555,
+                3149,
+                3643,
+                6086
             ]
         },
         {
@@ -40,25 +56,35 @@
         },
         {
             "headline": "Caloocan, Pangasinan hurdle rivals",
-            "subheadline": null,
+            "subheadline": "CALOOCAN and Pangasinan notched contrasting wins on Monday to rev up their drive in Manny Pacquiao Presents MPBL 2023 Season at the Batangas City Coliseum.",
             "headline_coord": [
                 100,
                 3999,
                 638,
                 4409
             ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                100,
+                3561,
+                753,
+                4695
+            ]
         },
         {
-            "headline": "Edoc shines as weather whips up surprises at JPGT Rivera",
-            "subheadline": null,
+            "headline": "Edoc shines as weather whips up surprises at JPGT Riviera",
+            "subheadline": "Halo Paglinawan struggled with an 86, trailed by 8 strokes over Alexian Ching (90) and Ballado (95).",
             "headline_coord": [
                 1039,
                 5302,
                 2493,
                 5619
             ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                1562,
+                3244,
+                2651,
+                5766
+            ]
         }
     ]
 }

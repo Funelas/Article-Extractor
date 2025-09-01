@@ -1,7 +1,7 @@
 {
     "values": [
         {
-            "headline": "EX-OWWA chief, 10 others face graft raps",
+            "headline": "Ex-OWWA chief, 10 others face graft raps",
             "subheadline": "FORMER Overseas Workers Welfare Administration (OWWA) Administrator Arnell Ignacio, along with two former deputy administrators and several others, will face graft and corruption charges over a P1.4-billion land transaction that allegedly bypassed the OWWA Board of Trustees, the Department of Migrant Workers (DMW) said Tuesday.",
             "headline_coord": [
                 90,
@@ -13,12 +13,12 @@
                 104,
                 1139,
                 711,
-                2013
+                2085
             ]
         },
         {
             "headline": "DepEd unveils 10-yr plan to reform basic education",
-            "subheadline": "The Department of Education (DepEd) on Tuesday launched the Develop-ment Plan 2035, a 10-year blueprint aimed at transforming the country's education system.",
+            "subheadline": "Angara said empowering schools with real-time data and decision-making authority will improve accountability and responsiveness. Un-",
             "headline_coord": [
                 825,
                 2800,
@@ -26,15 +26,15 @@
                 2997
             ],
             "subheadline_coord": [
-                108,
-                2012,
-                1483,
-                5145
+                1553,
+                3197,
+                2916,
+                3582
             ]
         },
         {
             "headline": "PBBM unveils scholarship for high school students",
-            "subheadline": "PRESIDENT Ferdinand Marcos Jr. announced during his fourth State of the Nation Address (SONA) that high school students graduating with high honors will receive a presidential scholarship to high school graduates who will receive high honors.",
+            "subheadline": "The President made the announce-ment while highlighting the coun-try's progress in higher education. He noted that 114 higher education insti-tutions (HEIs) in the Philippines are now recognized globally, including 60 public schools.",
             "headline_coord": [
                 2968,
                 2989,
@@ -42,15 +42,15 @@
                 3127
             ],
             "subheadline_coord": [
-                2982,
-                3052,
-                3606,
-                3720
+                843,
+                3108,
+                3609,
+                3951
             ]
         },
         {
             "headline": "Gov't set to roll out P20/k rice for 15m families",
-            "subheadline": "AGRICULTURE Secretary Francisco Tiu-Laurel Jr. announced that the government plans to roll out P20 per kilo rice to 15 million low- and middle-income households in 2025, benefiting an estimated 60 million Filipinos.",
+            "subheadline": "Tiu-Laurel said the Department of Ag-riculture will buy palay directly from farmers, with 20 percent of stocks sold at P20 per kilo. The rest will be sold at P38 to P42 per kilo to help fund the subsidy.",
             "headline_coord": [
                 105,
                 3655,
@@ -59,30 +59,14 @@
             ],
             "subheadline_coord": [
                 112,
-                2997,
-                3177,
-                6230
-            ]
-        },
-        {
-            "headline": "NBI nabs Chinese posing as Filipino",
-            "subheadline": "THE National Bureau of Investigation (NBI) announced Tuesday the arrest of a Chinese woman who falsely claims to be Filipino—a case reminiscent of the controversy involving former Bamban, Tarlac Mayor Alice Guo.",
-            "headline_coord": [
-                1541,
-                5467,
-                2911,
-                5636
-            ],
-            "subheadline_coord": [
-                108,
-                2012,
-                3604,
-                5962
+                4826,
+                2917,
+                5695
             ]
         },
         {
             "headline": "PDEA seizes drugs, arrests 99 suspects",
-            "subheadline": "THE Philippine Drug Enforcement Agency (PDEA) reported Tuesday that it seized 3,954 grams of shabu and arrested 99 suspects from July 18 to 25 as part of its intensified anti-drug campaign.",
+            "subheadline": "Notable operations include the seizure of 1,025 grams of shabu in",
             "headline_coord": [
                 3042,
                 4010,
@@ -90,15 +74,31 @@
                 4155
             ],
             "subheadline_coord": [
-                108,
-                2012,
-                3596,
-                5695
+                2996,
+                5032,
+                3601,
+                5970
+            ]
+        },
+        {
+            "headline": "NBI nabs Chinese posing as Filipino",
+            "subheadline": "The woman, identified as Wang Xiu-jun, was arrested by the NBI-Cavite District Office and Bureau of Immi-",
+            "headline_coord": [
+                1541,
+                5467,
+                2911,
+                5636
+            ],
+            "subheadline_coord": [
+                1552,
+                6430,
+                2196,
+                6568
             ]
         },
         {
             "headline": "Batangas jail escapees recaptured within 24 hrs",
-            "subheadline": "THE Batangas Police Provincial Office confirmed Tuesday the successful recapture of 10 Persons Deprived of Liberty (PDLs) who escaped from the Batangas Provincial Jail.",
+            "subheadline": "Three were caught early in Ibaan with the help of drone, surveillance, and other methods. The remaining six were apprehended through thermal, drone tracking and rapid deployment. Pot Chavez",
             "headline_coord": [
                 2977,
                 5368,
@@ -106,10 +106,10 @@
                 5504
             ],
             "subheadline_coord": [
-                108,
-                2012,
-                3601,
-                5749
+                1554,
+                5639,
+                3608,
+                6452
             ]
         }
     ]

@@ -1,22 +1,6 @@
 {
     "values": [
         {
-            "headline": "The Silver Lining' for Miss Philippines Earth 25th Anniversary",
-            "subheadline": "Candidates of Miss Philippines Earth 2025 show off their swimsuits at the pageant's press presentation",
-            "headline_coord": [
-                246,
-                1930,
-                1340,
-                2471
-            ],
-            "subheadline_coord": [
-                175,
-                2110,
-                1340,
-                6518
-            ]
-        },
-        {
             "headline": "How 'Ghosting' became a career milestone for Fyang Smith and JM Ibarra",
             "subheadline": "JM Ibarra and Fyang Smith mark a major breakthrough in their careers as first-time leads in 'Ghosting'",
             "headline_coord": [
@@ -30,6 +14,22 @@
                 659,
                 2842,
                 1633
+            ]
+        },
+        {
+            "headline": "'The Silver Lining' for Miss Philippines Earth 25th Anniversary",
+            "subheadline": "Angel Rose Tambal of La Paz, Leyte (center) wins Gold in the Media Choice Award at the Miss Philippines Earth 2025 press presentation",
+            "headline_coord": [
+                246,
+                1930,
+                1340,
+                2471
+            ],
+            "subheadline_coord": [
+                596,
+                2110,
+                1423,
+                4077
             ]
         },
         {
