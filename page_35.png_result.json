@@ -1,0 +1,91 @@
+{
+    "values": [
+        {
+            "headline": "2 Sudanese illegal aliens to be deported",
+            "subheadline": null,
+            "headline_coord": [
+                3006,
+                748,
+                3575,
+                880
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "154 new lawyers after Sharï'ah Bar exams",
+            "subheadline": null,
+            "headline_coord": [
+                2999,
+                2061,
+                3586,
+                2188
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "BARMM mock polls set today",
+            "subheadline": "THE Commission on Elections (Comelec) is set to hold the mock polls today (Saturday) in preparation for the Bangsamoro Parliamentary Elections (BPE) set in October.",
+            "headline_coord": [
+                105,
+                2188,
+                2650,
+                2509
+            ],
+            "subheadline_coord": [
+                112,
+                2505,
+                1456,
+                2751
+            ]
+        },
+        {
+            "headline": "Romualdez lauds South Korea for rice donation",
+            "subheadline": null,
+            "headline_coord": [
+                99,
+                3363,
+                759,
+                3781
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "25 inmates get P8K salary under TUPAD",
+            "subheadline": null,
+            "headline_coord": [
+                3019,
+                3374,
+                3555,
+                3509
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Marcos honors outgoing Aussie ambassador with Order of Sikatuna",
+            "subheadline": "PRESIDENT Ferdinand R. Marcos Jr. on Friday lauded Australian Ambassador to the Philippines HK Yu, who began her posting in 2022, officially ended her term in July.",
+            "headline_coord": [
+                823,
+                4841,
+                3648,
+                5024
+            ],
+            "subheadline_coord": [
+                829,
+                5121,
+                2214,
+                5419
+            ]
+        },
+        {
+            "headline": "AFP local brand team up for WPS push",
+            "subheadline": null,
+            "headline_coord": [
+                111,
+                5571,
+                1746,
+                5751
+            ],
+            "subheadline_coord": null
+        }
+    ]
+}

@@ -1,19 +1,19 @@
 {
     "values": [
         {
-            "headline": "SPORTS",
-            "subheadline": null,
-            "headline_coord": [
-                2567,
-                188,
-                3655,
-                454
-            ],
-            "subheadline_coord": null
+            "headline": null,
+            "subheadline": "WEDNESDAY, JULY 30, 2025",
+            "headline_coord": null,
+            "subheadline_coord": [
+                117,
+                359,
+                620,
+                415
+            ]
         },
         {
             "headline": "Thunderbelles' 5th-set grit turns back Crossovers",
-            "subheadline": "The ZUS Coffee Thunderbelles celebrate their conquest of the Chery Tiggo Crossovers in the PVL On Tour Tuesday at the Candon City Arena.",
+            "subheadline": "CANDON, Ilocos Sur—Given the opportunity to rise, ZUS Coffee seized the moment in a grueling, high-stakes battle-the Thunderbelles seemed tailor-made for delivering a poised yet fear-less performance to shock a stunned Chery Tiggo, 19-25, 22-25, 18-25, 25-19, 15-6 in the PVL On Tour Tuesday at the Candon City Arena.",
             "headline_coord": [
                 98,
                 888,
@@ -22,14 +22,14 @@
             ],
             "subheadline_coord": [
                 103,
-                708,
-                3483,
-                6093
+                756,
+                3583,
+                1823
             ]
         },
         {
             "headline": "Tenorio to follow in Jawo's footsteps as playing coach?",
-            "subheadline": "Chua said, that if Tenorio continues playing, he could follow in the footsteps of Robert Jaworski, who played and coached for Ginebra many years ago.",
+            "subheadline": "By Peter Atencio",
             "headline_coord": [
                 794,
                 2240,
@@ -37,26 +37,15 @@
                 2862
             ],
             "subheadline_coord": [
-                1555,
-                3149,
-                3643,
-                6086
+                838,
+                2874,
+                1217,
+                2942
             ]
         },
         {
-            "headline": "Cone lauds CJ Perez for helping Gilas defeat Black Bears",
-            "subheadline": null,
-            "headline_coord": [
-                826,
-                3845,
-                3534,
-                4050
-            ],
-            "subheadline_coord": null
-        },
-        {
             "headline": "Caloocan, Pangasinan hurdle rivals",
-            "subheadline": "CALOOCAN and Pangasinan notched contrasting wins on Monday to rev up their drive in Manny Pacquiao Presents MPBL 2023 Season at the Batangas City Coliseum.",
+            "subheadline": "CALOOCAN and Pangasinan notched contrasting wins on Monday to rev up their drive in Manny Pacquiao Pres-ents MPBL 2025 Season at the Batangas City Coliseum.",
             "headline_coord": [
                 100,
                 3999,
@@ -65,14 +54,30 @@
             ],
             "subheadline_coord": [
                 100,
-                3561,
+                4139,
                 753,
                 4695
             ]
         },
         {
+            "headline": "Cone lauds CJ Perez for helping Gilas defeat Black Bears",
+            "subheadline": "AFTER Gilas Pilipinas scored a come-from-behind, 103-98 win over the visiting Macau Black Bears on Monday night, coach Tim Cone took note of how players like CJ Perez can contribute to the team's cause.",
+            "headline_coord": [
+                826,
+                3845,
+                3534,
+                4050
+            ],
+            "subheadline_coord": [
+                667,
+                2481,
+                3637,
+                4233
+            ]
+        },
+        {
             "headline": "Edoc shines as weather whips up surprises at JPGT Riviera",
-            "subheadline": "Halo Paglinawan struggled with an 86, trailed by 8 strokes over Alexian Ching (90) and Ballado (95).",
+            "subheadline": "SILANG, Cavite - Zoji Edoc lived up to the hype as star status, overcoming a composed and steady frontside breeze a six-stroke lead in the ICTSI Riviera Golf Junior PGT Riviera Golf Club, Inc.",
             "headline_coord": [
                 1039,
                 5302,
@@ -80,10 +85,10 @@
                 5619
             ],
             "subheadline_coord": [
-                1562,
-                3244,
-                2651,
-                5766
+                202,
+                2828,
+                1708,
+                5814
             ]
         }
     ]

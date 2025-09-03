@@ -1,7 +1,7 @@
 from rapidfuzz import fuzz
 
-s1 = "Govtset to roll"
-s2 = "Gov't set to roll out P20/k rice "
+s1 = "jointpatrolsin"
+s2 = "PH, India to hold joint patrols in t"
 
 res = fuzz.partial_ratio_alignment(s1, s2)
 print(fuzz.partial_token_sort_ratio(s1,s2))

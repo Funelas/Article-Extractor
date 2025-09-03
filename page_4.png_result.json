@@ -12,17 +12,6 @@
             "subheadline_coord": null
         },
         {
-            "headline": "NEWS",
-            "subheadline": null,
-            "headline_coord": [
-                2950,
-                182,
-                3662,
-                454
-            ],
-            "subheadline_coord": null
-        },
-        {
             "headline": "OCD warns versus text scams offering assistance",
             "subheadline": null,
             "headline_coord": [
@@ -34,36 +23,75 @@
             "subheadline_coord": null
         },
         {
-            "headline": "IN BRIEF",
-            "subheadline": "Soldiers seized rebel guns in S. Kudarat",
-            "headline_coord": [
-                3097,
-                2311,
-                3542,
-                2424
-            ],
-            "subheadline_coord": [
-                3032,
-                3913,
-                3569,
-                4056
-            ]
-        },
-        {
             "headline": "DILG cites gains in drug campaign, local governance",
-            "subheadline": "Phivolcs lowers Kanlaon alert level",
+            "subheadline": null,
             "headline_coord": [
                 93,
                 3235,
                 771,
                 3647
             ],
-            "subheadline_coord": [
+            "subheadline_coord": null
+        },
+        {
+            "headline": "7 Pinoy scholars to study space science in US",
+            "subheadline": null,
+            "headline_coord": [
+                3033,
+                2456,
+                3614,
+                2599
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Soldiers seized rebel guns in S. Kudarat",
+            "subheadline": null,
+            "headline_coord": [
+                3032,
+                3913,
+                3569,
+                4056
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Phivolcs lowers Kanlaon alert level",
+            "subheadline": "Jay Ar Cabana, who road rage incident went viral, arrested by National Bureau of Investigation agents for posing as an operative of the agency to wiggle himself out of the traffic mess.",
+            "headline_coord": [
                 3053,
                 5229,
                 3543,
                 5362
+            ],
+            "subheadline_coord": [
+                117,
+                3017,
+                2529,
+                6576
             ]
+        },
+        {
+            "headline": "SEARCH FOR A MISSING MAN",
+            "subheadline": null,
+            "headline_coord": [
+                902,
+                5141,
+                1618,
+                5209
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "PCG rescues 144 in distressed ferry boat",
+            "subheadline": null,
+            "headline_coord": [
+                1545,
+                5389,
+                2936,
+                5552
+            ],
+            "subheadline_coord": null
         }
     ]
 }

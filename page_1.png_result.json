@@ -17,148 +17,103 @@
             ]
         },
         {
-            "headline": "By Maricel Cruz, Charles Dantes, Darwin G. Amojelar and Ram Superable",
-            "subheadline": "HOUSE AGENDA. Speaker Ferdinand Martin G. Romualdez outlines the legislative priorities in his address, at the opening session yesterday of the House of Representatives. Ver Noveno",
-            "headline_coord": [
-                111,
-                2239,
-                1186,
-                5199
-            ],
-            "subheadline_coord": [
-                111,
-                2800,
-                3165,
-                3310
-            ]
-        },
-        {
             "headline": "Solons to prioritize social protection measures",
-            "subheadline": "“The Congress should not be the home of the privileged, but the pillar of the nation, providing a strong foundation for a vibrant and inclusive economy,” he added.",
+            "subheadline": null,
             "headline_coord": [
                 1537,
                 2976,
                 3596,
                 3172
             ],
-            "subheadline_coord": [
-                2974,
-                3297,
-                3638,
-                3408
-            ]
-        },
-        {
-            "headline": "PH MAY LOSE P6B TO US ZERO TARIFF",
-            "subheadline": "BUSINESS / B1",
-            "headline_coord": [
-                172,
-                3763,
-                745,
-                3951
-            ],
-            "subheadline_coord": [
-                317,
-                4003,
-                594,
-                4059
-            ]
-        },
-        {
-            "headline": "GRAFT RAPS VS. EX-OWWA CHIEF",
-            "subheadline": "President Ferdinand R. Marcos Jr. leads the launch and ceremonial turnover of the World Bank Group Philippines Country Partnership Framework (CPF) for Fiscal Years 2026-2031 at Kalayaan Hall, Malacañan Palace, July 29, 2025. During the event, President Marcos receives the CPF, which serves as a strategic roadmap for the World Bank’s engagement in the Philippines, focusing on investments in health, education, job creation, digitization, and resilience. Joining the president onstage are (left to right) Secretary Arsenio Balisacan and Dandan Chen, Operations Manager, World Bank. PPA POOL",
-            "headline_coord": [
-                884,
-                3763,
-                1388,
-                3951
-            ],
-            "subheadline_coord": [
-                1604,
-                4595,
-                3589,
-                4853
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "DPWH readies list of flood control projects; DepDev draws up protocols",
-            "subheadline": "DPWH Secretary Manuel Bonoan, in an interview, said during the State of the Nation Address (SONA) to audit all flood control projects.",
+            "subheadline": null,
             "headline_coord": [
                 96,
                 4206,
                 1529,
                 4527
             ],
-            "subheadline_coord": [
-                818,
-                3202,
-                3581,
-                4808
-            ]
+            "subheadline_coord": null
         },
         {
-            "headline": "DOH explains zero-billing coverage, where it can be available",
-            "subheadline": "DOH Assistant Secretary Albert Francis Domingo also clarified that guarantee letters from politicians should no longer be necessary, referencing a Su-preme Court ruling that prohibits post-reference in the disburse-ment of approved national budget. It is approved and implemented, there should be no more.",
+            "headline": "DOH explains zero-billing coverage, where it can be availed",
+            "subheadline": null,
             "headline_coord": [
                 100,
                 4942,
                 2594,
                 5140
             ],
-            "subheadline_coord": [
-                115,
-                5134,
-                2889,
-                6005
-            ]
+            "subheadline_coord": null
         },
         {
-            "headline": "Senate vote to continue or junk VP impeach trial set for Aug. 6",
-            "subheadline": "Senate President Francis Escu-dero said during the plenary session, the vote was agreed upon during the pre-session caucus yesterday.",
-            "headline_coord": [
-                1525,
-                5486,
-                2872,
-                5804
-            ],
-            "subheadline_coord": [
-                2237,
-                3202,
-                3581,
-                6044
-            ]
-        },
-        {
-            "headline": "DOJ chief bares new witness on 'sabungeros' case",
-            "subheadline": "In a chance interview with re-porters, Justice Secretary Jesus Crispin Remulla said that the new witness could strengthen the prosecution’s case.",
+            "headline": "DOJ chief bares new witness on ‘sabungeros’ case",
+            "subheadline": null,
             "headline_coord": [
                 2980,
                 5010,
                 3614,
                 5400
             ],
-            "subheadline_coord": [
-                115,
-                5136,
-                3601,
-                5988
-            ]
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Senate vote to continue or junk VP impeach trial set for Aug. 6",
+            "subheadline": null,
+            "headline_coord": [
+                1525,
+                5486,
+                2872,
+                5804
+            ],
+            "subheadline_coord": null
         },
         {
             "headline": "Pag-IBIG special rate for expanded 4PH program",
-            "subheadline": "Members of militant groups led by Bagong Alyansang Makabayan (BAYAN) and other youth, labor, women’s organizations, march from the Film Center to the Senate building, to press for the impeachment trial of Vice President Sara Duterte. They called on the lawmakers to allow the presentation of evidence in the impeachment complaint. Angie de Silva",
+            "subheadline": null,
             "headline_coord": [
                 1543,
                 6148,
                 3612,
                 6341
             ],
-            "subheadline_coord": [
-                122,
-                3160,
-                3165,
-                6543
-            ]
+            "subheadline_coord": null
+        },
+        {
+            "headline": "PH MAY LOSE P6B TO US ZERO TARIFF",
+            "subheadline": null,
+            "headline_coord": [
+                172,
+                3763,
+                745,
+                3951
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "GRAFT RAPS VS. EX-OWWA CHIEF",
+            "subheadline": null,
+            "headline_coord": [
+                884,
+                3763,
+                1388,
+                3951
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "ROADMAP FOR PH. President Ferdinand R. Marcos Jr. leads the launch and ceremonial turnover of the World Bank Group Philippines Country Partnership Framework (CPF) for Fiscal Years 2026-2031 at Kalayaan Hall, Malacañan Palace, July 29, 2025. During the event, President Marcos receives the CPF. CPF serves as a strategic roadmap for the World Bank Group’s engagement in the Philippines, focusing on investments in health, education, job creation, digitization, and resilience. Joining the president onstage are (left to right) Secretary Arsenio Balisacan and Dandan Chen, Operations Manager, World Bank. PPA POOL",
+            "subheadline": null,
+            "headline_coord": [
+                1604,
+                4582,
+                3589,
+                5451
+            ],
+            "subheadline_coord": null
         }
     ]
 }

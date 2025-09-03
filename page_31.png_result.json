@@ -1,0 +1,42 @@
+{
+    "values": [
+        {
+            "headline": "Top execs tee off for a cause at 100 Presidents Golf Cup",
+            "subheadline": null,
+            "headline_coord": [
+                151,
+                1981,
+                2902,
+                2604
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Controversial law enforcer's story told in new documentary",
+            "subheadline": null,
+            "headline_coord": [
+                1154,
+                3331,
+                2180,
+                3944
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Australia to ban under-16s from YouTube",
+            "subheadline": "Australia will use landmark laws to ban children from video-streaming platform YouTube if they are under the age of 16.",
+            "headline_coord": [
+                2419,
+                4823,
+                3466,
+                5137
+            ],
+            "subheadline_coord": [
+                2290,
+                5264,
+                3230,
+                5940
+            ]
+        }
+    ]
+}

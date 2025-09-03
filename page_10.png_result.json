@@ -1,8 +1,8 @@
 {
     "values": [
         {
-            "headline": "PH stocks fall amid Fed policy meet uncertainty, weakening peso",
-            "subheadline": "By Jenniffer B. Austria",
+            "headline": "PH stocks fall amid Fed policy uncertainty, weakening peso",
+            "subheadline": "By Jennifer B. Austria",
             "headline_coord": [
                 99,
                 707,
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "headline": "MVP Group eyes SMC’s share in Meralco",
+            "headline": "MVP Group eyes SMC's 3.8% share in Meralco",
             "subheadline": "By Alena Mae S. Flores",
             "headline_coord": [
                 818,
@@ -34,7 +34,7 @@
         },
         {
             "headline": "SEC penalizes two online lenders for debt violations",
-            "subheadline": "Volleyball star Bea de Leon leads opening of her franchised KFC Philippines branch located at the ground floor of the Philippine Jockey Club building on R. Torres St., San Felipe, Padre Garcia, Batangas.",
+            "subheadline": "By Jenniffer B. Austria",
             "headline_coord": [
                 2986,
                 1874,
@@ -42,10 +42,10 @@
                 2218
             ],
             "subheadline_coord": [
-                291,
-                714,
-                3579,
-                3088
+                111,
+                1197,
+                611,
+                1260
             ]
         },
         {
@@ -98,19 +98,14 @@
         },
         {
             "headline": "TECPLATA NEW SERVICE.",
-            "subheadline": "Ro-ro cargo vessel INTREPIDO is docked at TecPlata, International Container Terminal Services, Inc.’s (ICTSI) Buenos Aires terminal. The terminal has launched a new regular service connecting the Port of La Plata to the Port of Montevideo in Uruguay.",
+            "subheadline": null,
             "headline_coord": [
                 3276,
                 5765,
                 3510,
                 5920
             ],
-            "subheadline_coord": [
-                191,
-                2796,
-                3600,
-                6552
-            ]
+            "subheadline_coord": null
         }
     ]
 }

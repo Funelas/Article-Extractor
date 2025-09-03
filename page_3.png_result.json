@@ -2,87 +2,73 @@
     "values": [
         {
             "headline": "Ex-OWWA chief, 10 others face graft raps",
-            "subheadline": "FORMER Overseas Workers Welfare Administration (OWWA) Administrator Arnell Ignacio, along with two former deputy administrators and several others, will face graft and corruption charges over a P1.4-billion land transaction that allegedly bypassed the OWWA Board of Trustees, the Department of Migrant Workers (DMW) said Tuesday.",
+            "subheadline": null,
             "headline_coord": [
                 90,
                 700,
                 3648,
                 1014
             ],
-            "subheadline_coord": [
-                104,
-                1139,
-                711,
-                2085
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "DepEd unveils 10-yr plan to reform basic education",
-            "subheadline": "Angara said empowering schools with real-time data and decision-making authority will improve accountability and responsiveness. Un-",
+            "subheadline": null,
             "headline_coord": [
                 825,
                 2800,
                 2919,
                 2997
             ],
-            "subheadline_coord": [
-                1553,
-                3197,
-                2916,
-                3582
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "PBBM unveils scholarship for high school students",
-            "subheadline": "The President made the announce-ment while highlighting the coun-try's progress in higher education. He noted that 114 higher education insti-tutions (HEIs) in the Philippines are now recognized globally, including 60 public schools.",
+            "subheadline": null,
             "headline_coord": [
                 2968,
                 2989,
                 3607,
                 3127
             ],
-            "subheadline_coord": [
-                843,
-                3108,
-                3609,
-                3951
-            ]
-        },
-        {
-            "headline": "Gov't set to roll out P20/k rice for 15m families",
-            "subheadline": "Tiu-Laurel said the Department of Ag-riculture will buy palay directly from farmers, with 20 percent of stocks sold at P20 per kilo. The rest will be sold at P38 to P42 per kilo to help fund the subsidy.",
-            "headline_coord": [
-                105,
-                3655,
-                751,
-                4064
-            ],
-            "subheadline_coord": [
-                112,
-                4826,
-                2917,
-                5695
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "PDEA seizes drugs, arrests 99 suspects",
-            "subheadline": "Notable operations include the seizure of 1,025 grams of shabu in",
+            "subheadline": null,
             "headline_coord": [
                 3042,
                 4010,
                 3541,
                 4155
             ],
-            "subheadline_coord": [
-                2996,
-                5032,
-                3601,
-                5970
-            ]
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Batangas jail escapees recaptured within 24 hrs",
+            "subheadline": null,
+            "headline_coord": [
+                2977,
+                5368,
+                3607,
+                5504
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Gov't set to roll out P20/k rice for 15m families",
+            "subheadline": null,
+            "headline_coord": [
+                105,
+                3655,
+                751,
+                4064
+            ],
+            "subheadline_coord": null
         },
         {
             "headline": "NBI nabs Chinese posing as Filipino",
-            "subheadline": "The woman, identified as Wang Xiu-jun, was arrested by the NBI-Cavite District Office and Bureau of Immi-",
+            "subheadline": "The National Bureau of Investigation (NBI) announces the arrest of a Chinese woman who falsely claims to be Filipino—a case similar to that of dismissed Bamban, Tarlac Mayor Alice Guo.",
             "headline_coord": [
                 1541,
                 5467,
@@ -90,26 +76,10 @@
                 5636
             ],
             "subheadline_coord": [
-                1552,
-                6430,
-                2196,
-                6568
-            ]
-        },
-        {
-            "headline": "Batangas jail escapees recaptured within 24 hrs",
-            "subheadline": "Three were caught early in Ibaan with the help of drone, surveillance, and other methods. The remaining six were apprehended through thermal, drone tracking and rapid deployment. Pot Chavez",
-            "headline_coord": [
-                2977,
-                5368,
-                3607,
-                5504
-            ],
-            "subheadline_coord": [
-                1554,
-                5639,
-                3608,
-                6452
+                111,
+                5824,
+                1870,
+                6527
             ]
         }
     ]

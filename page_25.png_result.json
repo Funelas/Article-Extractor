@@ -1,0 +1,128 @@
+{
+    "values": [
+        {
+            "headline": "PH stocks fall, peso closes at 57.58 vs US dollar",
+            "subheadline": "LOCAL shares dipped Wednesday",
+            "headline_coord": [
+                188,
+                527,
+                743,
+                1022
+            ],
+            "subheadline_coord": [
+                147,
+                1155,
+                765,
+                1218
+            ]
+        },
+        {
+            "headline": "Malampaya contractor tax part of gov't profit share-SC",
+            "subheadline": "The Gas-to-Power Project includes the income taxes of contractors.",
+            "headline_coord": [
+                807,
+                1967,
+                2913,
+                2498
+            ],
+            "subheadline_coord": [
+                2612,
+                2570,
+                3653,
+                2993
+            ]
+        },
+        {
+            "headline": "P488.5-b",
+            "subheadline": "Cost of Metro Manila subway",
+            "headline_coord": [
+                3007,
+                2058,
+                3499,
+                2228
+            ],
+            "subheadline_coord": [
+                3143,
+                2280,
+                3649,
+                2506
+            ]
+        },
+        {
+            "headline": "33 kilometers",
+            "subheadline": "Length of subway project",
+            "headline_coord": [
+                2982,
+                2528,
+                3641,
+                2686
+            ],
+            "subheadline_coord": [
+                2976,
+                3495,
+                3613,
+                3665
+            ]
+        },
+        {
+            "headline": "2032",
+            "subheadline": "New completion target date",
+            "headline_coord": [
+                2987,
+                3008,
+                3261,
+                3166
+            ],
+            "subheadline_coord": [
+                3097,
+                3228,
+                3651,
+                3443
+            ]
+        },
+        {
+            "headline": "26% exports growth cut June trade deficit",
+            "subheadline": null,
+            "headline_coord": [
+                92,
+                3044,
+                740,
+                3407
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "AI, climate change, social changes threaten PH jobs",
+            "subheadline": null,
+            "headline_coord": [
+                824,
+                4652,
+                2903,
+                4828
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Subway project faces delays on ROW issues",
+            "subheadline": null,
+            "headline_coord": [
+                2976,
+                3495,
+                3613,
+                3875
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Revolut opens second Asia tech hub in PH",
+            "subheadline": null,
+            "headline_coord": [
+                1550,
+                5616,
+                2826,
+                5742
+            ],
+            "subheadline_coord": null
+        }
+    ]
+}

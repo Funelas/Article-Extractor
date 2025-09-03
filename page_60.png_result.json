@@ -1,8 +1,8 @@
 {
     "values": [
         {
-            "headline": "How 'Ghosting' became a career milestone for Fyang Smith and JM Ibarra",
-            "subheadline": "JM Ibarra and Fyang Smith mark a major breakthrough in their careers as first-time leads in 'Ghosting'",
+            "headline": "How 'Ghosting' became a career milestone for Fyag Smith and JM Ibarra",
+            "subheadline": "Held on July 18 at Gateway Mall 2, the event witnessed the launch of a new romantic-horror series and a career milestone for the two fresh-faced stars",
             "headline_coord": [
                 1480,
                 659,
@@ -10,15 +10,26 @@
                 1451
             ],
             "subheadline_coord": [
-                633,
-                659,
-                2842,
-                1633
+                2544,
+                1514,
+                3642,
+                1658
             ]
         },
         {
+            "headline": "JM Ibarra and Fyana Smith mark a major breakthrough in their careers as first-time leads in 'Ghosting'",
+            "subheadline": null,
+            "headline_coord": [
+                1814,
+                659,
+                3602,
+                3935
+            ],
+            "subheadline_coord": null
+        },
+        {
             "headline": "'The Silver Lining' for Miss Philippines Earth 25th Anniversary",
-            "subheadline": "Angel Rose Tambal of La Paz, Leyte (center) wins Gold in the Media Choice Award at the Miss Philippines Earth 2025 press presentation",
+            "subheadline": "Candidates of Miss Philippines Earth 2025 show off their swimsuits at the pageant's press presentation",
             "headline_coord": [
                 246,
                 1930,
@@ -26,15 +37,15 @@
                 2471
             ],
             "subheadline_coord": [
-                596,
+                175,
                 2110,
-                1423,
-                4077
+                1340,
+                6518
             ]
         },
         {
             "headline": "BTS agency HYBE raided over alleged fraud trading",
-            "subheadline": "HYBE's Seoul headquarters is raided as police investigate alleged fraudulent trading involving founder Bang Si-hyuk",
+            "subheadline": "BTS is set for a 2026 comeback with a new album and world tour after completing military service",
             "headline_coord": [
                 1576,
                 4117,
@@ -42,10 +53,10 @@
                 4475
             ],
             "subheadline_coord": [
-                1957,
-                5492,
-                3638,
-                5834
+                2939,
+                4864,
+                3478,
+                4999
             ]
         }
     ]

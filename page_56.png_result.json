@@ -2,23 +2,18 @@
     "values": [
         {
             "headline": "PH share prices dip; peso climbs to 56.65 a dollar",
-            "subheadline": "(From left) Chef Geo Punsalan, member, Nutrition Council, Del Monte Culinary Solutions Kitchen; Alvin Manalansan, vice president, Philippine Stakeholders for Nutrition, Del Monte Philippines and Kate Demetrio, Nutritionist- Dietitian Del Monte Philippines join the launch of Del Monte Philippines' Nutri-licious advocacy, a nationwide effort that empowers moms to serve affordable, nutritious meals that can help address malnutrition in Filipino households.",
+            "subheadline": null,
             "headline_coord": [
                 98,
                 671,
                 1144,
                 967
             ],
-            "subheadline_coord": [
-                1306,
-                1550,
-                3600,
-                2924
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "Metro Pacific unit acquires coconut processor for P1b",
-            "subheadline": "METRO Pacific Agro Ventures (MPAV), a subsidiary of Metro Pacific Investments Corp. (MPIC), announced Thursday it completed the acquisition of Franklin Baker Group of Companies for P1 billion.",
+            "subheadline": "By Jenniffer B. Austria",
             "headline_coord": [
                 1287,
                 1871,
@@ -26,15 +21,15 @@
                 2423
             ],
             "subheadline_coord": [
-                1306,
-                2514,
-                2029,
-                5926
+                1313,
+                2420,
+                1813,
+                2488
             ]
         },
         {
             "headline": "Concepcion Industrial booked P355-m net income in second quarter",
-            "subheadline": "CONCEPCION Industrial Corp. (CIC), a leading manufacturer of air conditioners, refrigerators and home appliances, reported a net income of P355.4 million in the second quarter of the year, up 15.3 percent year-on-year despite softer demand.",
+            "subheadline": "By Jenniffer B. Austria with AFP",
             "headline_coord": [
                 103,
                 3493,
@@ -42,15 +37,15 @@
                 3656
             ],
             "subheadline_coord": [
-                112,
-                2709,
-                1955,
-                5926
+                1313,
+                2420,
+                1813,
+                2488
             ]
         },
         {
             "headline": "Manila Water aims to expand Project i-Float",
-            "subheadline": "MANILA Water Company Inc. said Thursday it will expand its Project i-Float, an innovative solution to trap solid waste in waterways, in flood-prone areas, such as Pasig, Taguig, and Navotas, after being deployed in Marikina City.",
+            "subheadline": "By Othel V. Campos",
             "headline_coord": [
                 2983,
                 3507,
@@ -58,15 +53,15 @@
                 3886
             ],
             "subheadline_coord": [
-                1356,
-                3082,
-                3641,
-                5204
+                2994,
+                3884,
+                3446,
+                3960
             ]
         },
         {
             "headline": "Ayala Corp., four subsidiaries retain spots on FTSE4Good Index",
-            "subheadline": "AYALA Corp. and four of its subsidiaries were included in the prestigious FTSE4Good Index Series again, affirming their strong environmental, social and governance (ESG) practices and bolstering the reputation of its business units among global investors.",
+            "subheadline": "By Jenniffer B. Austria",
             "headline_coord": [
                 1302,
                 5762,
@@ -74,10 +69,10 @@
                 5926
             ],
             "subheadline_coord": [
-                1314,
-                2709,
-                2039,
-                6220
+                1313,
+                2420,
+                1813,
+                2488
             ]
         }
     ]
