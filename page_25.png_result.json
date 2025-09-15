@@ -1,8 +1,8 @@
 {
     "values": [
         {
-            "headline": "PH stocks fall, peso closes at 57.58 vs US dollar",
-            "subheadline": "LOCAL shares dipped Wednesday",
+            "headline": "PH stocks fall, peso closes down at 57.58 vs US dollar",
+            "subheadline": "LOCAL shares dipped Wednesday amid sluggish trading, as investors remained on the sidelines due to global uncertainties, including the tions approaching Aug. 1 tariff negotiations deadline with the U.S.",
             "headline_coord": [
                 188,
                 527,
@@ -12,13 +12,13 @@
             "subheadline_coord": [
                 147,
                 1155,
-                765,
-                1218
+                770,
+                2033
             ]
         },
         {
-            "headline": "Malampaya contractor tax part of gov't profit share-SC",
-            "subheadline": "The Gas-to-Power Project includes the income taxes of contractors.",
+            "headline": "Malampaya contractor tax part of gov't profit share–SC",
+            "subheadline": "THE Supreme Court has ruled that the government's Malampaya Gas-to-Power Project includes the income taxes of contractors.",
             "headline_coord": [
                 807,
                 1967,
@@ -26,7 +26,7 @@
                 2498
             ],
             "subheadline_coord": [
-                2612,
+                959,
                 2570,
                 3653,
                 2993
@@ -81,48 +81,68 @@
             ]
         },
         {
-            "headline": "26% exports growth cut June trade deficit",
-            "subheadline": null,
-            "headline_coord": [
-                92,
-                3044,
-                740,
-                3407
-            ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "AI, climate change, social changes threaten PH jobs",
-            "subheadline": null,
-            "headline_coord": [
-                824,
-                4652,
-                2903,
-                4828
-            ],
-            "subheadline_coord": null
-        },
-        {
             "headline": "Subway project faces delays on ROW issues",
-            "subheadline": null,
+            "subheadline": "THE Department of Transportation (DOTr) is accelerating construction of the P488.5-billion Metro Manila Subway Project, despite delays primarily caused by right-of-way issues.",
             "headline_coord": [
                 2976,
                 3495,
                 3613,
                 3875
             ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                2996,
+                2058,
+                3653,
+                4243
+            ]
+        },
+        {
+            "headline": "26% exports growth cut June trade deficit",
+            "subheadline": "PHILIPPINE merchandise exports surged 26.1 percent year-on-year in June, 2024, leading to a smaller trade deficit for the month, the Philippine Statistics Authority (PSA) said Wednesday.",
+            "headline_coord": [
+                92,
+                3044,
+                740,
+                3407
+            ],
+            "subheadline_coord": [
+                99,
+                1995,
+                752,
+                3663
+            ]
+        },
+        {
+            "headline": "AI, climate change, social changes threaten PH jobs",
+            "subheadline": "TECHNOLOGICAL developments particularly in AI, might soon outcompete humans in most tasks, putting workers' jobs at risk more than ever, he said.",
+            "headline_coord": [
+                824,
+                4652,
+                2903,
+                4828
+            ],
+            "subheadline_coord": [
+                387,
+                1995,
+                2197,
+                5138
+            ]
         },
         {
             "headline": "Revolut opens second Asia tech hub in PH",
-            "subheadline": null,
+            "subheadline": "Darwin G. Amojelar",
             "headline_coord": [
                 1550,
                 5616,
                 2826,
                 5742
             ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                2995,
+                3902,
+                3511,
+                3970
+            ]
         }
     ]
 }

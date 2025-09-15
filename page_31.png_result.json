@@ -2,29 +2,39 @@
     "values": [
         {
             "headline": "Top execs tee off for a cause at 100 Presidents Golf Cup",
-            "subheadline": null,
+            "subheadline": "The 100 Presidents Golf Cup highlighted the power of corporate collaboration not just for business, but for creating positive impact through shared efforts and community-focused initiatives.",
             "headline_coord": [
                 151,
                 1981,
                 2902,
                 2604
             ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                151,
+                2259,
+                3642,
+                2604
+            ]
         },
         {
             "headline": "Controversial law enforcer's story told in new documentary",
-            "subheadline": null,
+            "subheadline": "The film's poster carries the tagline Redemption – it underscores what he's been through.",
             "headline_coord": [
                 1154,
                 3331,
                 2180,
                 3944
             ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                876,
+                5459,
+                1480,
+                5509
+            ]
         },
         {
             "headline": "Australia to ban under-16s from YouTube",
-            "subheadline": "Australia will use landmark laws to ban children from video-streaming platform YouTube if they are under the age of 16.",
+            "subheadline": "On paper, the ban is one of the strictest in the world. AFP",
             "headline_coord": [
                 2419,
                 4823,
@@ -33,9 +43,9 @@
             ],
             "subheadline_coord": [
                 2290,
-                5264,
-                3230,
-                5940
+                5750,
+                3589,
+                6469
             ]
         }
     ]

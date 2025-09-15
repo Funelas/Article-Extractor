@@ -1,7 +1,7 @@
 {
     "values": [
         {
-            "headline": "PH stocks fall amid Fed policy uncertainty, weakening peso",
+            "headline": "PH stocks fall amid Fed policy meet, uncertainty, weakening peso",
             "subheadline": "By Jennifer B. Austria",
             "headline_coord": [
                 99,
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "headline": "MVP Group eyes SMC's 3.8% share in Meralco",
+            "headline": "MVP Group eyes SMC’s share in Meralco",
             "subheadline": "By Alena Mae S. Flores",
             "headline_coord": [
                 818,
@@ -31,6 +31,17 @@
                 1344,
                 2430
             ]
+        },
+        {
+            "headline": "KFC PADRE GARCIA",
+            "subheadline": null,
+            "headline_coord": [
+                3206,
+                601,
+                3469,
+                664
+            ],
+            "subheadline_coord": null
         },
         {
             "headline": "SEC penalizes two online lenders for debt violations",

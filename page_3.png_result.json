@@ -23,37 +23,20 @@
             "subheadline_coord": null
         },
         {
-            "headline": "PBBM unveils scholarship for high school students",
-            "subheadline": null,
+            "headline": "IN BRIEF",
+            "subheadline": "PDEA seizes drugs, arrests 99 suspects",
             "headline_coord": [
-                2968,
-                2989,
-                3607,
-                3127
+                3070,
+                2843,
+                3542,
+                2956
             ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "PDEA seizes drugs, arrests 99 suspects",
-            "subheadline": null,
-            "headline_coord": [
+            "subheadline_coord": [
                 3042,
                 4010,
                 3541,
                 4155
-            ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "Batangas jail escapees recaptured within 24 hrs",
-            "subheadline": null,
-            "headline_coord": [
-                2977,
-                5368,
-                3607,
-                5504
-            ],
-            "subheadline_coord": null
+            ]
         },
         {
             "headline": "Gov't set to roll out P20/k rice for 15m families",
@@ -68,19 +51,25 @@
         },
         {
             "headline": "NBI nabs Chinese posing as Filipino",
-            "subheadline": "The National Bureau of Investigation (NBI) announces the arrest of a Chinese woman who falsely claims to be Filipino—a case similar to that of dismissed Bamban, Tarlac Mayor Alice Guo.",
+            "subheadline": null,
             "headline_coord": [
                 1541,
                 5467,
                 2911,
                 5636
             ],
-            "subheadline_coord": [
-                111,
-                5824,
-                1870,
-                6527
-            ]
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Batangas jail escapees recaptured within 24 hrs",
+            "subheadline": null,
+            "headline_coord": [
+                2977,
+                5368,
+                3607,
+                5504
+            ],
+            "subheadline_coord": null
         }
     ]
 }

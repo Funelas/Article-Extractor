@@ -18,69 +18,19 @@
         },
         {
             "headline": "Solons to prioritize social protection measures",
-            "subheadline": null,
+            "subheadline": "THE House of Representatives will center its legislative work on the urgent needs of ordinary Filipinos in the 20th Congress, with a focus on education, health, and social protection, among others. Romualdez said in a speech during the resumption of session Tuesday.",
             "headline_coord": [
                 1537,
                 2976,
                 3596,
                 3172
             ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "DPWH readies list of flood control projects; DepDev draws up protocols",
-            "subheadline": null,
-            "headline_coord": [
-                96,
-                4206,
-                1529,
-                4527
-            ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "DOH explains zero-billing coverage, where it can be availed",
-            "subheadline": null,
-            "headline_coord": [
-                100,
-                4942,
-                2594,
-                5140
-            ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "DOJ chief bares new witness on ‘sabungeros’ case",
-            "subheadline": null,
-            "headline_coord": [
-                2980,
-                5010,
-                3614,
-                5400
-            ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "Senate vote to continue or junk VP impeach trial set for Aug. 6",
-            "subheadline": null,
-            "headline_coord": [
-                1525,
-                5486,
-                2872,
-                5804
-            ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "Pag-IBIG special rate for expanded 4PH program",
-            "subheadline": null,
-            "headline_coord": [
-                1543,
-                6148,
-                3612,
-                6341
-            ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                118,
+                3108,
+                3581,
+                6572
+            ]
         },
         {
             "headline": "PH MAY LOSE P6B TO US ZERO TARIFF",
@@ -105,15 +55,84 @@
             "subheadline_coord": null
         },
         {
-            "headline": "ROADMAP FOR PH. President Ferdinand R. Marcos Jr. leads the launch and ceremonial turnover of the World Bank Group Philippines Country Partnership Framework (CPF) for Fiscal Years 2026-2031 at Kalayaan Hall, Malacañan Palace, July 29, 2025. During the event, President Marcos receives the CPF. CPF serves as a strategic roadmap for the World Bank Group’s engagement in the Philippines, focusing on investments in health, education, job creation, digitization, and resilience. Joining the president onstage are (left to right) Secretary Arsenio Balisacan and Dandan Chen, Operations Manager, World Bank. PPA POOL",
-            "subheadline": null,
+            "headline": "DPWH readies list of flood control projects; DepDev draws up protocols",
+            "subheadline": "ROADMAP FOR PH. President Ferdinand R. Marcos Jr. leads the launch and ceremonial turnover of the World Bank Group Philippines Country Partnership Framework (CPF) 2026–2031 at Kalayaan Hall, Malacañan Palace, July 29, 2025. During the event, President Marcos receives the CPF serves as a strategic roadmap for the World Bank G health, education, job creation, digitization, and resilien Balisacan and Dandan Chen, O",
             "headline_coord": [
-                1604,
-                4582,
-                3589,
-                5451
+                96,
+                4206,
+                1529,
+                4527
             ],
-            "subheadline_coord": null
+            "subheadline_coord": [
+                819,
+                3161,
+                3589,
+                5329
+            ]
+        },
+        {
+            "headline": "DOH explains zero-billing coverage, where it can be available",
+            "subheadline": "UNRELENTING. Members of militant groups led by Bagong Alyansang Makabayan (BAYAN) and other youth, labor, women’s organizations, march from the film center to the Senate building, to press for the impeachment trial of President Sara Duterte.They called on the lawmakers to follow the presentation of evidence in the impeachment complaint. Angie de Silva",
+            "headline_coord": [
+                100,
+                4942,
+                2594,
+                5140
+            ],
+            "subheadline_coord": [
+                122,
+                5286,
+                1664,
+                6543
+            ]
+        },
+        {
+            "headline": "Senate vote to continue or junk VP impeach trial set for Aug. 6",
+            "subheadline": "THE Senate is scheduled to deliberate on the Supreme Court’s (SC) ruling that declared the Articles of Impeach- ment against Vice President Sara Du-",
+            "headline_coord": [
+                1525,
+                5486,
+                2872,
+                5804
+            ],
+            "subheadline_coord": [
+                819,
+                5286,
+                2196,
+                6041
+            ]
+        },
+        {
+            "headline": "DOJ chief bares new witness on 'sabungeros' case",
+            "subheadline": "THE Department of Justice (DOJ) on Tuesday revealed that a new ci- vilian witness has surfaced in the case of the missing sabungeros (cockfighting enthusiasts), ex- pected to support the testimony of Alyas ‘Kitoy’ identified as Julie “Dondon” Patidongan.",
+            "headline_coord": [
+                2980,
+                5010,
+                3614,
+                5400
+            ],
+            "subheadline_coord": [
+                3004,
+                5496,
+                3600,
+                5886
+            ]
+        },
+        {
+            "headline": "Pag-IBIG special rate for expanded 4PH program",
+            "subheadline": "PAG-IBIG Fund announced yesterday that it is offering a special subsidized in- terest rate of 3 percent per annum for the first five years of housing loans under the Expanded Pambansang Pabahay para sa",
+            "headline_coord": [
+                1543,
+                6148,
+                3612,
+                6341
+            ],
+            "subheadline_coord": [
+                1555,
+                5286,
+                2219,
+                6568
+            ]
         }
     ]
 }

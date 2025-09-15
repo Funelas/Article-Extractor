@@ -35,71 +35,40 @@
         },
         {
             "headline": "DMW, US group to aid seafarers",
-            "subheadline": "The Department of Migrant Workers (DMW) is now coordinating with the US-based Pilipino Workers Center (PWC) to assist more than 100 Filipino cruise ship workers who have reportedly been detained and deported by US immigration authorities since April this year.",
+            "subheadline": null,
             "headline_coord": [
                 821,
                 2401,
                 3425,
                 2697
             ],
-            "subheadline_coord": [
-                833,
-                2810,
-                2940,
-                3094
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "PH, India to hold joint patrols in WPS in August",
-            "subheadline": "THE Philippines and India are set to conduct joint patrols in the West Philippine Sea next month, a move analysts interpret as a firm stance against China’s growing assertive-ness in the region.",
+            "subheadline": null,
             "headline_coord": [
                 2982,
                 3516,
                 3628,
                 3967
             ],
-            "subheadline_coord": [
-                2982,
-                3652,
-                3642,
-                4402
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "Phivolcs issues lahar advisory for Mt. Mayon areas",
-            "subheadline": "THE Philippine Institute of Volcanology and Seismology (Phivolcs) has issued a lahar advisory for residents and communities around Mayon Volcano as Tropical Storm Daniel (TSD) is expected to bring heavy rains to the Bicol Region.",
+            "subheadline": null,
             "headline_coord": [
                 104,
                 4869,
                 2226,
                 5078
             ],
-            "subheadline_coord": [
-                117,
-                4351,
-                3310,
-                6128
-            ]
-        },
-        {
-            "headline": "‘Probe P2.5b Las Piñas flood project’",
-            "subheadline": "LAS PIÑAS Rep. Mark Anthony Santos is calling for a congressional investigation into the controversial P2.5 billion flood control project along the Las Piñas-Zapote River Drive, following flooding in Barangay Pulang Lupa Dos during of tributaries.",
-            "headline_coord": [
-                1893,
-                5594,
-                3469,
-                5783
-            ],
-            "subheadline_coord": [
-                1909,
-                5870,
-                3040,
-                6128
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "SERENE.",
-            "subheadline": "Local officials are advocating for Laguna deepening Lake’s deepening water storage and mitigate flooding.",
+            "subheadline": "Local officials are advocating for Laguna deepening Lake’s water storage and mitigate flooding: Persistent flooding. Many residents rely on the lake for their daily sustenance. Edd Castro",
             "headline_coord": [
                 191,
                 5612,
@@ -107,11 +76,22 @@
                 5667
             ],
             "subheadline_coord": [
-                155,
+                131,
                 5748,
                 376,
-                6011
+                6288
             ]
+        },
+        {
+            "headline": "'Probe P2.5b Las Piñas flood project'",
+            "subheadline": null,
+            "headline_coord": [
+                1893,
+                5594,
+                3469,
+                5783
+            ],
+            "subheadline_coord": null
         }
     ]
 }
