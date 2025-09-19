@@ -1,63 +1,47 @@
 {
     "values": [
         {
-            "headline": "How 'Ghosting' became a career milestone for Fyag Smith and JM Ibarra",
-            "subheadline": "Held on July 18 at Gateway Mall 2, the event witnessed the launch of a new romantic-horror series and a career milestone for the two fresh-faced stars",
+            "headline": "How 'Ghosting' became a career milestone for Fyang Smith and JM Ibarra",
+            "byline": "By Jasper Valdez",
             "headline_coord": [
                 1480,
                 659,
                 3664,
                 1451
             ],
-            "subheadline_coord": [
-                2544,
-                1514,
-                3642,
-                1658
+            "byline_coord": [
+                1582,
+                1508,
+                1966,
+                1571
             ]
         },
         {
-            "headline": "JM Ibarra and Fyana Smith mark a major breakthrough in their careers as first-time leads in 'Ghosting'",
-            "subheadline": null,
-            "headline_coord": [
-                1814,
-                659,
-                3602,
-                3935
-            ],
-            "subheadline_coord": null
-        },
-        {
-            "headline": "'The Silver Lining' for Miss Philippines Earth 25th Anniversary",
-            "subheadline": "Candidates of Miss Philippines Earth 2025 show off their swimsuits at the pageant's press presentation",
+            "headline": "The Silver Lining for Miss Philippines Earth 25th Anniversary",
+            "byline": "Eton Concepcion",
             "headline_coord": [
                 246,
                 1930,
                 1340,
                 2471
             ],
-            "subheadline_coord": [
-                175,
-                2110,
-                1340,
-                6518
+            "byline_coord": [
+                770,
+                2673,
+                1217,
+                2741
             ]
         },
         {
             "headline": "BTS agency HYBE raided over alleged fraud trading",
-            "subheadline": "BTS is set for a 2026 comeback with a new album and world tour after completing military service",
+            "byline": null,
             "headline_coord": [
                 1576,
                 4117,
                 2788,
                 4475
             ],
-            "subheadline_coord": [
-                2939,
-                4864,
-                3478,
-                4999
-            ]
+            "byline_coord": null
         }
     ]
 }

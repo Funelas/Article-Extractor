@@ -1,7 +1,7 @@
 from rapidfuzz import fuzz
 
-s1 = "Cone lauds CJ Perez for helping Gilas defeat Black Bears"
-s2 = "Cone lauds"
+s1 = "How ‘Ghosting’ became a career milestone for Fyang Smith and JM Ibarra"
+s2 = "How 'Ghosting'"
 
 res = fuzz.partial_ratio_alignment(s1, s2)
 print(fuzz.token_set_ratio(s1,s2))

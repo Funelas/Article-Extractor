@@ -2,62 +2,82 @@
     "values": [
         {
             "headline": "PH share prices dip; peso climbs to 56.65 a dollar",
-            "subheadline": null,
+            "byline": "Jennifer B. Austria with AFP",
             "headline_coord": [
                 98,
                 671,
                 1148,
                 967
             ],
-            "subheadline_coord": null
+            "byline_coord": [
+                698,
+                3377,
+                1231,
+                3420
+            ]
         },
         {
             "headline": "Metro Pacific unit acquires coconut processor for P1b",
-            "subheadline": null,
+            "byline": "Jennifer B. Austria with AFP",
             "headline_coord": [
                 1287,
                 1871,
                 3644,
                 2423
             ],
-            "subheadline_coord": null
+            "byline_coord": [
+                698,
+                3377,
+                1231,
+                3420
+            ]
         },
         {
             "headline": "Concepcion Industrial booked P355-m net income in second quarter",
-            "subheadline": null,
+            "byline": "Jenniffer B. Austria",
             "headline_coord": [
                 103,
                 3493,
                 2762,
                 3656
             ],
-            "subheadline_coord": null
+            "byline_coord": [
+                3277,
+                6520,
+                3636,
+                6563
+            ]
         },
         {
             "headline": "Manila Water aims to expand Project i-Float",
-            "subheadline": null,
+            "byline": "By Othel V. Campos",
             "headline_coord": [
                 2983,
                 3507,
                 3578,
                 3886
             ],
-            "subheadline_coord": null
+            "byline_coord": [
+                2994,
+                3884,
+                3446,
+                3960
+            ]
         },
         {
             "headline": "Ayala Corp., four subsidiaries retain spots on FTSE4Good Index",
-            "subheadline": "Jennifer B. Austria",
+            "byline": "Jenniffer B. Austria",
             "headline_coord": [
                 1301,
                 5764,
                 3424,
                 5925
             ],
-            "subheadline_coord": [
-                1313,
-                2420,
-                1813,
-                2488
+            "byline_coord": [
+                3277,
+                6520,
+                3636,
+                6563
             ]
         }
     ]
