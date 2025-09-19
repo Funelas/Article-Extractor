@@ -1,10 +1,10 @@
 from rapidfuzz import fuzz
 
-s1 = "jointpatrolsin"
-s2 = "PH, India to hold joint patrols in t"
+s1 = "Cone lauds CJ Perez for helping Gilas defeat Black Bears"
+s2 = "Cone lauds"
 
 res = fuzz.partial_ratio_alignment(s1, s2)
-print(fuzz.partial_token_sort_ratio(s1,s2))
+print(fuzz.token_set_ratio(s1,s2))
 print(fuzz.ratio(s1, s2))            # 83
 print(res) # 100
 new_res = s2[res.dest_start:res.dest_end]
@@ -17,3 +17,8 @@ print(f"New String: {s2.replace(new_res, "")}")
 # print([x for x in first_list if x not in second_list])
 # def equal_str_chker(string1,string2):
 #     pass
+
+# mylist = [1,2,3]
+# mylist[0] = 10
+
+# print(mylist)

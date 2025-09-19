@@ -6,67 +6,52 @@
             "headline_coord": [
                 98,
                 671,
-                1144,
+                1148,
                 967
             ],
             "subheadline_coord": null
         },
         {
             "headline": "Metro Pacific unit acquires coconut processor for P1b",
-            "subheadline": "By Jenniffer B. Austria",
+            "subheadline": null,
             "headline_coord": [
                 1287,
                 1871,
                 3644,
                 2423
             ],
-            "subheadline_coord": [
-                1313,
-                2420,
-                1813,
-                2488
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "Concepcion Industrial booked P355-m net income in second quarter",
-            "subheadline": "By Jenniffer B. Austria with AFP",
+            "subheadline": null,
             "headline_coord": [
                 103,
                 3493,
                 2762,
                 3656
             ],
-            "subheadline_coord": [
-                1313,
-                2420,
-                1813,
-                2488
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "Manila Water aims to expand Project i-Float",
-            "subheadline": "By Othel V. Campos",
+            "subheadline": null,
             "headline_coord": [
                 2983,
                 3507,
                 3578,
                 3886
             ],
-            "subheadline_coord": [
-                2994,
-                3884,
-                3446,
-                3960
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "Ayala Corp., four subsidiaries retain spots on FTSE4Good Index",
-            "subheadline": "By Jenniffer B. Austria",
+            "subheadline": "Jennifer B. Austria",
             "headline_coord": [
-                1302,
-                5762,
-                3423,
-                5926
+                1301,
+                5764,
+                3424,
+                5925
             ],
             "subheadline_coord": [
                 1313,

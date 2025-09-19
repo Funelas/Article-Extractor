@@ -2,19 +2,14 @@
     "values": [
         {
             "headline": "Thunderbelles' 5th-set grit turns back Crossovers",
-            "subheadline": "The ZUS Coffee Thunderbelles celebrate their conquest of the Chery Tiggo Crossovers in the PVL On Tour Tuesday at the Candon City Arena.",
+            "subheadline": null,
             "headline_coord": [
                 98,
                 888,
                 798,
                 1450
             ],
-            "subheadline_coord": [
-                103,
-                708,
-                3594,
-                1823
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "Tenorio to follow in Jawo's footsteps as playing coach?",
@@ -28,17 +23,6 @@
             "subheadline_coord": null
         },
         {
-            "headline": "Caloocan, Pangasinan hurdle rivals",
-            "subheadline": null,
-            "headline_coord": [
-                100,
-                3999,
-                638,
-                4409
-            ],
-            "subheadline_coord": null
-        },
-        {
             "headline": "Cone lauds CJ Perez for helping Gilas defeat Black Bears",
             "subheadline": null,
             "headline_coord": [
@@ -46,6 +30,17 @@
                 3845,
                 3534,
                 4050
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "Caloocan, Pangasinan hurdle rivals",
+            "subheadline": null,
+            "headline_coord": [
+                100,
+                3999,
+                638,
+                4409
             ],
             "subheadline_coord": null
         },

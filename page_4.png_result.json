@@ -1,20 +1,15 @@
 {
     "values": [
         {
-            "headline": "LTO waives late registration fines after storms",
-            "subheadline": "By Rio N. Araja",
+            "headline": "LIO waives late registration fines after storms",
+            "subheadline": null,
             "headline_coord": [
                 95,
                 706,
-                767,
-                1112
+                3577,
+                5860
             ],
-            "subheadline_coord": [
-                111,
-                1160,
-                416,
-                1223
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "OCD warns versus text scams offering assistance",
@@ -23,82 +18,62 @@
                 817,
                 2280,
                 2959,
-                2803
+                2949
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "IN BRIEF",
+            "subheadline": null,
+            "headline_coord": [
+                3097,
+                2311,
+                3542,
+                2424
             ],
             "subheadline_coord": null
         },
         {
             "headline": "7 Pinoy scholars to study space science in US",
-            "subheadline": "SEVEN Filipino scholars are set to embark on a scholarship study in the United States after they were officially awarded grants under the Fulbright-PhilSA Program Award in Space Science, Technology, and Applications (SSTAP) by the Philippine Space Agency (PhilSA) announced on Tuesday.",
+            "subheadline": null,
             "headline_coord": [
-                3004,
+                984,
                 2456,
                 3614,
-                2599
+                4569
             ],
-            "subheadline_coord": [
-                3025,
-                2746,
-                3595,
-                3074
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "Soldiers seized rebel guns in S. Kudarat",
-            "subheadline": "GOVERNMENT troops recovered several high-powered firearms by during a clearing operation conducted by the 7th Infantry (Tapay) Battalion (7IB) in Isulan, Sultan Kudarat, the Philippine Army reported Tuesday.",
+            "subheadline": null,
             "headline_coord": [
-                3032,
-                3913,
-                3569,
-                4056
+                984,
+                2914,
+                3577,
+                4104
             ],
-            "subheadline_coord": [
-                121,
-                3021,
-                3600,
-                5602
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "Phivolcs lowers Kanlaon alert level",
-            "subheadline": "THE Philippine Institute of Volcanology and Seismology (Phivolcs) announced on Tuesday evening it has lowered the alert status over Kanlaon Volcano from Level 3 (magmatic unrest) to Level 2 (moderate level of volcanic unrest).",
+            "subheadline": null,
             "headline_coord": [
-                2507,
-                3841,
-                3504,
-                5603
+                984,
+                2914,
+                3543,
+                5860
             ],
-            "subheadline_coord": [
-                2507,
-                3021,
-                3595,
-                5745
-            ]
+            "subheadline_coord": null
         },
         {
             "headline": "DILG cites gains in drug campaign, local governance",
-            "subheadline": "By Vince Lopez",
-            "headline_coord": [
-                93,
-                3231,
-                771,
-                3647
-            ],
-            "subheadline_coord": [
-                121,
-                3679,
-                465,
-                3748
-            ]
-        },
-        {
-            "headline": "SEARCH FOR A MISSING MAN: Benguet continues death for a missing person at Sitio Talingguroy, Wangal, La Trinidad, led by MPS with other support units and volunteers scour the area at the nearby river in Wangal.",
             "subheadline": null,
             "headline_coord": [
-                902,
-                3240,
-                2762,
-                5217
+                93,
+                2914,
+                3239,
+                5602
             ],
             "subheadline_coord": null
         },
@@ -106,10 +81,21 @@
             "headline": "PCG rescues 144 in distressed ferry boat",
             "subheadline": null,
             "headline_coord": [
-                1542,
-                5392,
-                2939,
+                984,
+                2914,
+                3577,
                 5550
+            ],
+            "subheadline_coord": null
+        },
+        {
+            "headline": "FAKE NBI GETS DEEPER IN TROUBLE",
+            "subheadline": null,
+            "headline_coord": [
+                116,
+                6423,
+                1465,
+                6491
             ],
             "subheadline_coord": null
         }
