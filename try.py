@@ -1,7 +1,7 @@
 from rapidfuzz import fuzz
 
-s1 = "How ‘Ghosting’ became a career milestone for Fyang Smith and JM Ibarra"
-s2 = "How 'Ghosting'"
+s1 = "i-Float"
+s2 = "Water aims to expand Project i-Float"
 
 res = fuzz.partial_ratio_alignment(s1, s2)
 print(fuzz.token_set_ratio(s1,s2))
