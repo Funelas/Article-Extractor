@@ -21,7 +21,7 @@ Automatically detect and label headlines and bylines in newspaper and magazine i
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Funelas/Article-Extractor.git
-cd ocr-gemini-detector
+cd Article-Extractor
 ```
 
 ### 2. Install Dependencies
@@ -40,21 +40,22 @@ Get your API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
 ## Quick Start
 
 ### 1. Prepare Your Image
-Place your newspaper/magazine image in the project directory or update the path in the notebook.
+Place your newspaper/magazine image in the `imgs/` folder or note its file path.
 
-### 2. Run the Notebook
-```bash
-jupyter notebook ocr_gemini_detector.ipynb
-```
-
-### 3. Configure the Image Path
-In the notebook, update this line with your image file:
+### 2. Update the Image Path
+Open `main.py` and navigate to **line 278**. Replace the default image path with your image file:
 ```python
-image_path = "./path/to/your/image.png"
+image_path = "./imgs/your_image.png"
 ```
 
-### 4. Execute All Cells
-Run all cells in sequence to process your image.
+### 3. Run the Script
+Execute the main script:
+```bash
+python main.py
+```
+
+### 4. View Results
+After processing completes, check the output folders for annotated images and JSON data.
 
 ## Output
 
