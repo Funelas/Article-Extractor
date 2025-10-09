@@ -20,7 +20,7 @@ Automatically detect and label headlines and bylines in newspaper and magazine i
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Funelas/Article-Extractor.git
 cd ocr-gemini-detector
 ```
 
